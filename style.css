@@ -1,0 +1,9 @@
+h1 {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+button {
+  display: block;
+  margin: auto;
+}

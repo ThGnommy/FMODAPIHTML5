@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{26db0961-cdd5-456c-a921-8e85790066c4}">
+        <property name="assetPath">
+            <value>Rain,Leaves,Medium to Heavy,Some tiny thunder peals,Loop.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>96</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>17.054541666666665</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{c0515f39-509c-4091-9c89-4b84a0f2e6cf}</destination>
+        </relationship>
+    </object>
+</objects>
